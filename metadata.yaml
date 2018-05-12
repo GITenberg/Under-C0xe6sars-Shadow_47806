@@ -1,10 +1,16 @@
 _repo: Under-C0xe6sars-Shadow_47806
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47806-h/images/cover.jpg
 creator:
   author:
     agent_name: Colby, Henry Francis
     gutenberg_agent_id: '44476'
     url: http://www.gutenberg.org/2009/agents/44476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47806#Under-C0xe6sars-Shadow
 gutenberg_issued: '2014-12-29'
 gutenberg_type: Text
 identifiers:
